@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0933C4E0-4CEF-CA77-FDA3-B11B67D28036}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scenes/Latihan6.cs">
+    <Files>
+      <File FileName="Assets/Scenes/Latihan6.cs" Line="19" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Volumes/Untitled/Data Randy/GITHUB/Unity/Dicoding - Belajar Membuat Game Untuk Pemula/Basic Scripting/Assets/Scenes/Latihan4/NewMonoBehaviour.cs" relfile="Assets/Scenes/Latihan4/NewMonoBehaviour.cs" line="1" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
